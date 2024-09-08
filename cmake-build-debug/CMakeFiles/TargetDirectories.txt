@@ -1,0 +1,3 @@
+C:/Users/Rodan/Documents/GitHub/Informatica-Segundo-semeste/cmake-build-debug/CMakeFiles/Informatica_Segundo_semeste.dir
+C:/Users/Rodan/Documents/GitHub/Informatica-Segundo-semeste/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rodan/Documents/GitHub/Informatica-Segundo-semeste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
